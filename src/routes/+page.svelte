@@ -95,7 +95,8 @@
 		-moz-user-select: none;
 		overflow-y: scroll;
 		height: 100vh;
-		padding-left: 300px;
+		/* padding-left: 300px; */
 		scroll-snap-type: y mandatory;
+		align-items: center;
 	}
 </style>

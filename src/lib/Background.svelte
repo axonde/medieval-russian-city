@@ -1,6 +1,6 @@
 <script>
 	let blurAmount = 70;
-	let baseColor = '#101011'; // Темно-пурпурный, почти черный
+	let baseColor = '#3d251e';
 </script>
 
 <div class="background-container" style="background: {baseColor}">
@@ -37,7 +37,7 @@
 
 	/* Конкретные экземпляры блобов с разными цветами, размерами и анимацией */
 	.blob-1 {
-		background: rgba(24, 24, 29, 1); /* Черный */
+		background: rgba(76, 50, 40, 1); /* Черный */
 		width: 40vmin;
 		height: 40vmin;
 		top: 20%;
@@ -47,7 +47,7 @@
 	}
 
 	.blob-2 {
-		background: rgba(8, 62, 210, 0.4); /* Темно-синий */
+		background: rgba(91, 62, 49, 1); /* Темно-синий */
 		width: 60vmin;
 		height: 60vmin;
 		bottom: 10%;
@@ -57,7 +57,7 @@
 	}
 
 	.blob-3 {
-		background: rgba(6, 38, 38, 0.7); /* Тёмно-зелённый */
+		background: rgba(106, 74, 58, 1); /* Тёмно-зелённый */
 		width: 50vmin;
 		height: 50vmin;
 		top: 50%;

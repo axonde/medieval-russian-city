@@ -15,6 +15,7 @@
 <style>
 	.preview__wrapper {
 		height: 100vh;
+		width: 100%;
 		flex-shrink: 0;
 		scroll-snap-align: center;
 		display: flex;
