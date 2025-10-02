@@ -7,7 +7,7 @@ const config = {
     adapter: adapter(),
     paths: {
       // Для локалки оставляем пустым, для билда ставим подпапку
-      base: dev ? '' : '/alex-nevsky'
+      base: dev ? '' : '/17-century-manufactures'
     },
     // Генерация относительных путей для всех ассетов
     appDir: '_app'
