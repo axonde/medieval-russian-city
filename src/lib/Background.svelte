@@ -1,6 +1,6 @@
 <script>
 	let blurAmount = 70;
-	let baseColor = '#3d251e';
+	let baseColor = '#032e0f';
 </script>
 
 <div class="background-container" style="background: {baseColor}">
