@@ -16,7 +16,7 @@
 		transition: 0.3s ease-in-out;
 	}
 	a:hover {
-		color: #e20aff;
+		color: #c20000;
 		transform: scale(1.05);
 		text-shadow: 10px 10px black;
 	}

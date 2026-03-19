@@ -37,7 +37,7 @@
 
 	/* Конкретные экземпляры блобов с разными цветами, размерами и анимацией */
 	.blob-1 {
-		background: rgba(76, 50, 40, 1); /* Черный */
+		background: rgba(2, 43, 38, 1); /* Черный */
 		width: 40vmin;
 		height: 40vmin;
 		top: 20%;
@@ -47,7 +47,7 @@
 	}
 
 	.blob-2 {
-		background: rgba(91, 62, 49, 1); /* Темно-синий */
+		background: rgba(0, 0, 0, 1); /* Темно-синий */
 		width: 60vmin;
 		height: 60vmin;
 		bottom: 10%;
@@ -57,7 +57,7 @@
 	}
 
 	.blob-3 {
-		background: rgba(106, 74, 58, 1); /* Тёмно-зелённый */
+		background: rgba(11, 41, 37, 1); /* Тёмно-зелённый */
 		width: 50vmin;
 		height: 50vmin;
 		top: 50%;

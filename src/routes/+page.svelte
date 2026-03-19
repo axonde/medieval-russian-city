@@ -30,7 +30,7 @@
 
 		<Scene
 			alternate={true}
-			title="Кремль, &ensp;&ensp;&ensp;&ensp;&ensp; посад &ensp;&ensp;&ensp;&ensp;&ensp; и &ensp;&ensp;&ensp;&ensp;&ensp; слободы"
+			title="Кремль, &ensp;&ensp;&ensp;&ensp;&ensp; посад <br> и &ensp;&ensp;&ensp;&ensp;&ensp; слободы"
 			text="Кремль (град) – крепость с собором и администрацией. Посад – торгово-ремесленная часть. Слободы – привилегированные поселения за стенами."
 		>
 			{#snippet img()}
@@ -49,7 +49,7 @@
 
 		<Scene
 			alternate={true}
-			title="Улицы &ensp;&ensp;&ensp;&ensp;&ensp; и &ensp;&ensp;&ensp;&ensp;&ensp; жилые &ensp;&ensp;&ensp;&ensp;&ensp; постройки"
+			title="Улицы &ensp;&ensp;&ensp;&ensp;&ensp; и &ensp;&ensp;&ensp;&ensp;&ensp; жилые <br> постройки"
 			text="Улицы немощёные, в грязь клали деревянные мостки. Дома деревянные, рубленые «во мху», у богатых – хоромы с теремами и резьбой."
 		>
 			{#snippet img()}
@@ -76,9 +76,9 @@
 			{/snippet}
 		</Scene>
 
-        <Scene
+		<Scene
 			alternate={false}
-			title="Москва &ensp;&ensp;&ensp;&ensp;&ensp; X&ensp;&ensp;V&ensp;&ensp;I&ensp;&ensp;&ensp;&ensp;&ensp;–&ensp;&ensp;&ensp;&ensp;&ensp;X&ensp;&ensp;V&ensp;&ensp;I&ensp;&ensp;I &ensp;&ensp;&ensp;&ensp;&ensp; веков"
+			title="Москва &ensp;&ensp;&ensp;&ensp;&ensp; X&ensp;&ensp;V&ensp;&ensp;I&ensp;&ensp;&ensp;&ensp;&ensp;–&ensp;&ensp;&ensp;&ensp;&ensp;X&ensp;&ensp;V&ensp;&ensp;I&ensp;&ensp;I <br> веков"
 			text="Кремль, Китай-город, Белый город, Земляной город, слободы. Огромный по тем временам мегаполис с 40 тысячами домов."
 		>
 			{#snippet img()}
@@ -86,7 +86,7 @@
 			{/snippet}
 		</Scene>
 
-        <Scene
+		<Scene
 			alternate={true}
 			title="Повседневная &ensp;&ensp;&ensp;&ensp;&ensp; жизнь"
 			text="Ремёсла, торговля, служба. Патриархальный уклад, религиозность. Рынки, лавки, ремесленные мастерские."
@@ -96,16 +96,15 @@
 			{/snippet}
 		</Scene>
 
-        <Scene
+		<Scene
 			alternate={false}
-			title="Значение &ensp;&ensp;&ensp;&ensp;&ensp; древнерусских <br> городов"
+			title="Значение <br> древнерусских <br> городов"
 			text="Центры политической, экономической и культурной жизни. Основа обороны и объединения русских земель."
 		>
 			{#snippet img()}
 				<Image url="art-9.png" />
 			{/snippet}
 		</Scene>
-
 
 		<Copyright />
 	</div>

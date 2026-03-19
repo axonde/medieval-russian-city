@@ -29,6 +29,7 @@
 	}
 	.preview__title {
 		font-size: 50px;
+        text-align: center;
 	}
 	img {
 		height: 40vh;
